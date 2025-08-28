@@ -3,8 +3,7 @@
 
 ![Leaf Disease Detection Demo](https://github.com/shukur-alom/leaf-diseases-detect/blob/main/Media/video.gif)
 
-Got it ✅ — your current README is very detailed, but you want a **simpler, cleaner version** that’s easier to read.
-Here’s a rewritten version in plain, simple style:
+
 
 ---
 
@@ -125,6 +124,3 @@ MIT License – free to use and modify.
 
 </div>
 
----
-
-Would you like me to also make a **very short "student project" style README** (just setup + run steps, no long explanations), or keep it at this simplified but still professional level?
