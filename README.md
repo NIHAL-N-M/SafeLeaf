@@ -110,11 +110,7 @@ python test_api.py
 
 ---
 
-## 📜 License
 
-MIT License – free to use and modify.
-
----
 
 <div align="center">
 
